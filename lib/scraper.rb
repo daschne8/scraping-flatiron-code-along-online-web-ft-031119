@@ -42,4 +42,4 @@ class Scraper
 end
 
 
-# binding.pry
+Scraper.new.print_courses
